@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/StreamTube.git
+git clone https://github.com/AlsoKnownAs-Ax/StreamTube.git
 cd StreamTube
 ```
 
