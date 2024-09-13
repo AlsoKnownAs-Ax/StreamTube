@@ -18,9 +18,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Preview
 
-![Home Page Preview](.assets/preview1.png)
-![Movie List Preview](.assets/preview2.png)
-![Movie Page Preview](.assets/preview3.png)
+![Home Page Preview](./assets/preview1.png)
+![Movie List Preview](./assets/preview2.png)
+![Movie Page Preview](./assets/preview3.png)
 
 ## Getting Started
 
