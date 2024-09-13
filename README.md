@@ -16,6 +16,12 @@ Before you begin, ensure you have met the following requirements:
 - **Node.js**: Version 16 or higher
 - **npm** (Node Package Manager) or **yarn**
 
+## Preview
+
+![Home Page Preview](.assets/preview1.png)
+![Movie List Preview](.assets/preview2.png)
+![Movie Page Preview](.assets/preview3.png)
+
 ## Getting Started
 
 Follow these steps to set up and run the project locally.
