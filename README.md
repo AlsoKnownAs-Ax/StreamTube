@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 ![Home Page Preview](./assets/preview1.png)
 ![Movie List Preview](./assets/preview2.png)
-![Movie Page Preview](./assets/preview3.png)
+![Movie Page Preview](./assets/previewe.png)
 
 ## Getting Started
 
