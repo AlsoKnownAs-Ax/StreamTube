@@ -16,6 +16,9 @@ Before you begin, ensure you have met the following requirements:
 - **Node.js**: Version 16 or higher
 - **npm** (Node Package Manager) or **yarn**
 
+## Live Preview:
+https://stream-tube-gamma.vercel.app/
+
 ## Preview
 
 ![Home Page Preview](./assets/preview1.png)
